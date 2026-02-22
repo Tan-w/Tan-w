@@ -46,4 +46,4 @@ Exploring the intersection of AI and Cybersecurity — especially AI-driven secu
 
 ---
 
-📫 Connect with me on LinkedIn: [Your LinkedIn URL]
+📫 Connect with me on LinkedIn: (https://www.linkedin.com/in/tanaajee-vaghmare-33425381/)
