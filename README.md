@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm [Tanajee]
 
-<!--
-**Tan-w/Tan-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analyst transitioning into Cybersecurity and AI-Assisted Development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 Cybersecurity Focus
+
+- SOC fundamentals
+- SIEM & Log Analysis
+- Incident Triage
+- Windows Event Log Analysis
+- Linux Command Line
+- NIST Cybersecurity Framework
+- MITRE ATT&CK
+
+---
+
+## 🤖 AI-Assisted Development
+
+I build practical tools using Generative AI and rapid prototyping methods.
+
+### 🚀 Projects
+- 📘 Book Summary Generator (AI-powered summarization tool)
+- 📊 Excel-to-XML Automation Tool
+- 🗂 Work Allocation & Task Management App
+
+---
+
+## 🧠 Core Skills
+
+- Prompt Engineering
+- AI-Assisted Development
+- Workflow Automation
+- Rapid Prototyping (Cursor / Claude / Replit)
+- XML & Structured Data Processing
+- Google AI Studio
+- Firebase
+- VS Code
+
+---
+
+## 🌍 Interests
+
+Exploring the intersection of AI and Cybersecurity — especially AI-driven security monitoring and automation in SOC environments.
+
+---
+
+📫 Connect with me on LinkedIn: [Your LinkedIn URL]
