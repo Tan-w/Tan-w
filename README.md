@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Tanajee]
+# 👋 Hi, I'm Tanajee
 
 Analyst transitioning into Cybersecurity and AI-Assisted Development.
 
